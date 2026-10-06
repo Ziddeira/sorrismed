@@ -1,0 +1,16 @@
+{
+  "name": "sorrismed-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site institucional e de captação de pacientes da SorrisMed — Clínica Médica e Odontológica (Ingleses, Florianópolis).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18.17"
+  },
+  "license": "UNLICENSED"
+}
